@@ -1,4 +1,4 @@
-# coding interview questions , solution and DS Algorithms with swift
+# coding interview questions , solution & Data Structures and Algorithms with swift
 
 ## Data Structures and Algorithams with Swift
 
