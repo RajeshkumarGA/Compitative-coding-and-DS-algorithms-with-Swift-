@@ -19,5 +19,5 @@
 ## Dynamic Programming Coding Problems Solutions with Swift
 
 1. climbing a staircase - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/climbing%20a%20staircase.playground/Contents.swift)
-2. Find minimum number of coins - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/climbing%20a%20staircase.playground/Contents.swift)
+2. Find minimum number of coins - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/Find%20minimum%20number%20of%20coins.playground/Contents.swift)
 
