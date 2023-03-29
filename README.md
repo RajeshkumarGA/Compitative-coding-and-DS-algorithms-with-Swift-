@@ -15,4 +15,6 @@
 
 2. climbing a staircase - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/climbing%20a%20staircase.playground/Contents.swift)
 
+3. Sort An Array of 0s, 1s and 2s - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/%20Sort%20An%20Array%20of%200s%2C%201s%20and%202s.playground/Contents.swift)
+
 
