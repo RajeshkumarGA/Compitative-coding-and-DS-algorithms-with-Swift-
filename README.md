@@ -13,4 +13,6 @@
 
 1. Pyramids and patterns code examples - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/Pyramids%20and%20Pattrens.playground/Contents.swift)
 
+2. climbing a staircase - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/climbing%20a%20staircase.playground/Contents.swift)
+
 
