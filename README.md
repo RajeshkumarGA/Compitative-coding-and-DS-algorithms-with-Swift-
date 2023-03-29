@@ -12,9 +12,12 @@
 ## Compitative coding Solutions with Swift
 
 1. Pyramids and patterns code examples - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/Pyramids%20and%20Pattrens.playground/Contents.swift)
+2. Sort An Array of 0s, 1s and 2s - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/%20Sort%20An%20Array%20of%200s%2C%201s%20and%202s.playground/Contents.swift)
 
-2. climbing a staircase - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/climbing%20a%20staircase.playground/Contents.swift)
 
-3. Sort An Array of 0s, 1s and 2s - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/%20Sort%20An%20Array%20of%200s%2C%201s%20and%202s.playground/Contents.swift)
 
+## Dynamic Programming Coding Problems Solutions with Swift
+
+1. climbing a staircase - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/climbing%20a%20staircase.playground/Contents.swift)
+2. Find minimum number of coins - [Swift Code](https://github.com/RajeshkumarGA/Compitative-coding-and-DS-algorithms-with-Swift-/blob/main/climbing%20a%20staircase.playground/Contents.swift)
 
